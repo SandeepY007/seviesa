@@ -1,0 +1,795 @@
+@media (max-width:1024px) {
+	.navbar-nav>li>a {
+		font-size: 14px;
+		padding: 10px 5px 0
+	}
+
+	.doyouknowdiv h2 {
+		padding: 25px
+	}
+
+	.iamdiv {
+		width: 70%
+	}
+
+	.btn-elaraimg {
+		margin-right: 0
+	}
+
+	.hover-element p {
+		font-size: 12px;
+		line-height: 15px
+	}
+
+	#row2 {
+		margin-bottom: 30px
+	}
+
+	#row4 {
+		margin-top: 30px
+	}
+
+	.experiencecontent p {
+		margin-bottom: 10px
+	}
+
+	.experiencecontent p,
+	.experiencecontent p a {
+		font-size: 13px;
+		line-height: 18px
+	}
+
+	.reasoncontent p {
+		padding: 55px 40px
+	}
+
+	.reason {
+		min-height: 190px
+	}
+
+	.builder360,
+	.w70p {
+		width: 80%
+	}
+
+	.homepopuptext {
+		width: 250px;
+		margin: -323px 0 0;
+		padding: 53px 20px
+	}
+
+	.k-range-top .title {
+		width: 12%;
+		font-size: 16px
+	}
+
+	.k-range-top .title1 {
+		width: 80%;
+		font-size: 16px
+	}
+
+	.k-range {
+		height: 453px
+	}
+
+	.k-range-beds {
+		height: auto;
+		width: 100%;
+		margin-right: 0
+	}
+
+	.about-us {
+		height: 540px;
+		background: url(../images/about-us-img.jpg) 35% center no-repeat
+	}
+
+	.rajeshhead a,
+	.thakurhead a {
+		width: 80px;
+		height: 80px;
+		top: 200px
+	}
+
+	.thakurhead a {
+		left: 315px
+	}
+
+	.rajeshhead a {
+		left: 385px
+	}
+
+	.roshanhead a,
+	.snehalhead a {
+		top: 230px;
+		width: 80px;
+		height: 80px
+	}
+
+	.roshanhead a {
+		left: 490px
+	}
+
+	.snehalhead a {
+		left: 205px
+	}
+
+	.balachandranhead a {
+		width: 80px;
+		height: 80px;
+		top: 220px;
+		left: 100px
+	}
+
+	.moneshhead a {
+		width: 80px;
+		height: 80px;
+		top: 230px;
+		left: 25px
+	}
+
+	.builder360 .line {
+		position: absolute;
+		top: 12%;
+		left: 16%
+	}
+
+	figure.effect-sadie p {
+		font-size: 9px !important
+	}
+}
+
+@media (max-width:990px) {
+
+	.navbar-header,
+	.navbar-nav>li {
+		float: left;
+		width: 100%
+	}
+
+	.main-menu .nohover a,
+	.main-menu ul li a,
+	.main-menu ul li a:focus,
+	.main-menu ul li a:hover,
+	.main-menu ul li ul li a {
+		color: #000
+	}
+
+	.navbar-collapse {
+		width: 100%;
+		border-top: 1px solid transparent;
+		background-color: #ededed;
+		z-index: 100;
+		position: relative;
+		top: 70px;
+		padding: 0
+	}
+
+	.navbar-toggle {
+		position: relative;
+		right: 0;
+		top: 20px
+	}
+
+	.navbar-toggle .icon-bar {
+		background-color: #666;
+		width: 30px;
+		height: 3px
+	}
+
+	.main-menu .nohover {
+		float: none
+	}
+
+	.main-menu .nohover a:hover {
+		background-color: #000
+	}
+
+	.container-fluid>.navbar-collapse,
+	.container-fluid>.navbar-header,
+	.container>.navbar-collapse,
+	.container>.navbar-header,
+	.navbar-nav {
+		margin: 0
+	}
+}
+
+@media screen and (max-width:990px) {
+
+	.navbar-inverse .navbar-collapse,
+	.navbar-inverse .navbar-form {
+		padding-top: 40px
+	}
+
+	.topmenu {
+		position: absolute;
+		right: 0;
+		top: 5%
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.navbar-nav {
+		margin: 0;
+		width: 100%
+	}
+}
+
+@media (min-width:990px) {
+	.dropdown:hover .dropdown-menu {
+		display: block
+	}
+}
+
+@media (max-width:980px) {
+
+	.carousel,
+	.carousel .item {
+		height: 300px
+	}
+
+	.carousel-caption h1 {
+		font-size: 25px;
+		line-height: 30px
+	}
+
+	header {
+		height: 90px
+	}
+
+	.navbar-brand {
+		padding-top: 15px
+	}
+
+	.builder360,
+	.doyouknowdiv,
+	.iamdiv,
+	.w70p {
+		width: 100%
+	}
+
+	.guidediv div {
+		margin: 0 1.7%
+	}
+
+	.accessdiv div,
+	.designiconsdiv div {
+		margin: 0 1.6%
+	}
+
+	.hover-element p {
+		font-size: 15px;
+		line-height: 18px
+	}
+
+	#row1 {
+		margin-bottom: 30px;
+		display: inline-block
+	}
+
+	.carousel.carousel-fade {
+		height: 700px
+	}
+
+	.reason {
+		padding: 10px
+	}
+
+	.reason p {
+		font-size: 15px
+	}
+
+	.reasoncontent p {
+		padding: 45px
+	}
+
+	.w50p {
+		width: 80%
+	}
+
+	.storedd {
+		width: 300px
+	}
+
+	.homepopuptext {
+		width: 100%;
+		margin: 1px 0;
+		padding: 20px
+	}
+
+	.k-range {
+		height: auto;
+		padding-bottom: 20px
+	}
+
+	.k-range .title {
+		font-size: 16px
+	}
+
+	.k-range li {
+		padding: 3px 15px 3px 10px
+	}
+
+	.about-us {
+		height: 540px;
+		background: url(../images/about-us-img.jpg) 10% center no-repeat
+	}
+
+	.thakurhead a {
+		top: 200px;
+		left: 50%
+	}
+
+	.rajeshhead a {
+		top: 200px;
+		left: 61%
+	}
+
+	.roshanhead a {
+		top: 230px;
+		left: 76%
+	}
+
+	.snehalhead a {
+		top: 230px;
+		left: 36%
+	}
+
+	.balachandranhead a {
+		top: 220px;
+		left: 22%
+	}
+
+	.moneshhead a {
+		top: 230px;
+		left: 11%
+	}
+
+	.about-content {
+		margin-top: 400px
+	}
+
+	figure.effect-sadie p {
+		font-size: 14px !important
+	}
+}
+
+@media (max-width:800px) {
+	.navbar-collapse {
+		width: 100%
+	}
+
+	.carousel,
+	.carousel .item {
+		height: 250px
+	}
+
+	.carousel-caption h1 {
+		font-size: 20px;
+		line-height: 25px
+	}
+}
+
+@media (max-width:768px) {
+	.career-current-position-cta a {
+		float: left;
+		margin-top: 0;
+		margin-bottom: 20px
+	}
+
+	.footer-cta {
+		width: 100%
+	}
+}
+
+@media (max-width:767px) {
+
+	.guidediv div,
+	.guidediv div h3,
+	.guidediv div p,
+	.left,
+	.right {
+		text-align: center
+	}
+
+	.navbar-collapse,
+	.navbar-nav {
+		width: 100%
+	}
+
+	.navbar-brand {
+		padding-top: 10px
+	}
+
+	.search,
+	.searchdiv {
+		width: 90% !important
+	}
+
+	.accessdiv div,
+	.designiconsdiv div,
+	.guidediv div {
+		width: 100%;
+		margin: 0
+	}
+
+	.searchbtn {
+		right: 10px !important
+	}
+
+	.guidediv div img {
+		display: inline-block
+	}
+
+	.iamdiv {
+		width: 70%
+	}
+
+	.iamdiv h2 {
+		padding: 20px
+	}
+
+	.iamdiv h1 {
+		margin-bottom: 20px
+	}
+
+	.desktop {
+		display: none
+	}
+
+	.mobile {
+		display: block
+	}
+
+	.about-us {
+		background: url(../images/about-us-img.jpg) 20% top/200% no-repeat
+	}
+
+	.thakurhead a {
+		top: 36%;
+		left: 48%
+	}
+
+	.rajeshhead a {
+		top: 38%;
+		left: 59%
+	}
+
+	.roshanhead a {
+		top: 41%;
+		left: 76%
+	}
+
+	.snehalhead a {
+		top: 43%;
+		left: 30%
+	}
+
+	.balachandranhead a {
+		top: 40%;
+		left: 13%
+	}
+
+	.moneshhead a {
+		top: 43%;
+		left: 0
+	}
+
+	.about-content {
+		margin: 400px 0 0
+	}
+
+	.carousel,
+	.carousel .item {
+		height: 400px
+	}
+
+	.carousel .item {
+		background-position: top right !important;
+		background-size: 150% !important
+	}
+
+	.carousel-caption {
+		width: 100%;
+		position: absolute;
+		background-color: #ccc;
+		padding: 30px 10%;
+		left: 0;
+		top: 200px;
+		z-index: 1
+	}
+}
+
+@media (max-width:640px) {
+	.experiencecontent p {
+		margin-bottom: 20px
+	}
+
+	.experiencecontent p,
+	.experiencecontent p a {
+		font-size: 17px;
+		line-height: 23px
+	}
+
+	.btn-elaraimg {
+		margin-right: 0;
+		margin-top: 0;
+		width: 100%;
+		z-index: 0
+	}
+
+	.btn-elaraimg:after {
+		display: none
+	}
+
+	.btn-elaraimg div {
+		width: 50%;
+		text-align: center
+	}
+
+	.storedd,
+	.w50p,
+	.w88p {
+		width: 100%
+	}
+
+	.carousel.carousel-fade {
+		height: 1100px
+	}
+
+	.carousel.carousel-fade .fright {
+		margin-top: 400px
+	}
+
+	.book-visit-video {
+		margin-top: 0
+	}
+
+	.reason {
+		min-height: auto;
+		display: inline-block
+	}
+
+	.reason .num {
+		font-size: 50px;
+		line-height: 50px;
+		letter-spacing: -5px
+	}
+
+	.reason p {
+		text-align: left;
+		line-height: 18px
+	}
+
+	.storedd {
+		height: auto;
+		position: relative;
+		padding: 0;
+		margin: 0;
+		z-index: 0
+	}
+
+	.searchdiv1 .search {
+		width: 280px !important
+	}
+
+	.builder360 span {
+		padding: 20px 0
+	}
+
+	.k-range-top .title,
+	.k-range-top .title1 {
+		padding: 5px 0;
+		width: 100%
+	}
+
+	.k-range-top .title {
+		margin: 0;
+		border-right: none;
+		border-bottom: 1px solid #fff
+	}
+
+	.quiz {
+		margin: 20px
+	}
+
+	#doyouknow h3 {
+		font-size: 20px;
+		line-height: 20px
+	}
+
+	.quiz h4 {
+		font-size: 17px;
+		line-height: 20px
+	}
+
+	.savvy-ul {
+		margin-top: 4%
+	}
+
+	.grey-bar-title div {
+		width: 100%;
+		padding: 0;
+		font-size: 12px
+	}
+
+	.grey-bar-title {
+		top: 30px;
+		width: 85%;
+		padding: 5px
+	}
+
+	.grey-bar-title-savvy-tech {
+		top: 0;
+		width: 86%
+	}
+
+	.enquiry-title-box {
+		margin-bottom: 6%
+	}
+}
+
+@media (max-width:600px) {
+	.thakurhead a {
+		top: 32%;
+		left: 48%
+	}
+
+	.rajeshhead a {
+		top: 34%;
+		left: 59%
+	}
+
+	.roshanhead a {
+		top: 37%;
+		left: 76%
+	}
+
+	.snehalhead a {
+		top: 39%;
+		left: 30%
+	}
+
+	.balachandranhead a {
+		top: 36%;
+		left: 13%
+	}
+
+	.moneshhead a {
+		top: 39%;
+		left: 0
+	}
+}
+
+@media (max-width:568px) {
+	.iamdiv {
+		width: 100%
+	}
+}
+
+@media (max-width:480px) {
+	.thakurhead a {
+		top: 110px;
+		left: 43%
+	}
+
+	.rajeshhead a {
+		top: 110px;
+		left: 56%
+	}
+
+	.roshanhead a {
+		top: 130px;
+		left: 72%
+	}
+
+	.snehalhead a {
+		top: 130px;
+		left: 25%
+	}
+
+	.balachandranhead a {
+		top: 120px;
+		left: 10%
+	}
+
+	.moneshhead a {
+		top: 130px;
+		left: 0
+	}
+
+	.carousel-caption {
+		top: 160px
+	}
+
+	.k-range-top .title1 {
+		top: 50px;
+		z-index: 2
+	}
+
+	.btn-elaraimg1 {
+		margin-top: 0;
+		width: 100%
+	}
+
+	.btn-elaraimg1:after {
+		display: none
+	}
+
+	.no-padding-mob {
+		padding: 0
+	}
+
+	.main-tab-cont img {
+		width: 70px
+	}
+
+	.grey-bar-title-savvy-tech {
+		width: 93%;
+		padding: 3% 0
+	}
+
+	a.back-cta,
+	a.description-apply-now-cta {
+		color: #fff;
+		text-align: center;
+		display: block;
+		width: 70%
+	}
+
+	a.description-apply-now-cta {
+		background: #682874;
+		padding: 5px 20px;
+		margin: 20px auto
+	}
+
+	a.back-cta {
+		background: #7f7f7f;
+		padding: 5px 40px;
+		text-transform: uppercase;
+		margin-bottom: 20px;
+		margin-left: auto;
+		margin-right: auto
+	}
+}
+
+textarea#feedback {
+	max-width: 100%;
+}
+
+.navbar-collapse .navbar-nav>li.mobilenav {
+	display: none;
+}
+
+@media (max-width:767px) {
+	.mkfbk .col-md-6.col-sm-6.col-xs-12.mkf-left {
+		width: 100% !important;
+		text-align: center !important;
+	}
+
+	.mkfbk .col-md-6.col-sm-6.col-xs-12.mkf {
+		width: 100% !important;
+		text-align: center !important;
+	}
+
+	.mkfbk .col-md-6.col-sm-6.col-xs-12.mkf-left img {
+		margin: auto;
+	}
+
+	.topnav ul li.mobilenav {
+		display: none;
+	}
+
+	.navbar-collapse .navbar-nav>li.mobilenav {
+		display: block;
+	}
+
+	#owl-demo4 .owl-wrapper-outer {
+		margin-bottom: 50px !important;
+	}
+	.homepage .slider{
+	    padding-top:100px !important;
+	}
+	.bannerMain{
+	    padding-top:100px !important;
+	}
+}
